@@ -1,7 +1,7 @@
- -   👋 Hi, I’m @Raiyan444
- -   👀 I’m interested in DevSecOps!
- -   🌱 I’m currently learning a lot.
+### Hi, there
+ -   👋 Hi, I’m Raiyan!
+ -   👀 I’m interested in DevSecOp and 🌱learning more about it.
  -   💞️ I’m looking to collaborate on open source project.
- -   📫 Reach me here mohamedraiyan@zoho.com
+ -   📫 Reach me here
 
 
